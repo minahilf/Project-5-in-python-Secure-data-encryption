@@ -1,3 +1,2 @@
 streamlit
 cryptography
-git add requirements.txt
